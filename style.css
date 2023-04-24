@@ -1,0 +1,17 @@
+h1{
+    position: absolute;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    
+}
+
+section{
+    width: 30%;
+}
+
+img{
+    height: 30%;
+}
